@@ -26,8 +26,3 @@ This project analyzes **customer behavior on Amazon** using **Tableau** for data
 3. **Review Sentiment Analysis** – Identify common review keywords and ratings.  
 4. **Shopping Behavior Funnel** – Visualize customer journey from browsing to purchase.  
 
-## 🚀 Getting Started  
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/your-username/amazon-customer-analysis.git
-cd amazon-customer-analysis
