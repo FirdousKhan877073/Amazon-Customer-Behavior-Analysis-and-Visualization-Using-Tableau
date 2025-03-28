@@ -1,5 +1,5 @@
 # Amazon-Customer-Behavior-Analysis-and-Visualization-Using-Tableau
-# Customer Behavior Analysis for Amazon Using Tableau  
+
 
 ## 📌 Project Overview  
 This project analyzes **customer behavior on Amazon** using **Tableau** for data visualization. The insights help in understanding **purchase patterns, customer segmentation, and review sentiments**, enabling better decision-making for e-commerce strategies.  
